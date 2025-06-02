@@ -1,0 +1,14 @@
+{
+  "nombre": "Natalia Vlad",
+  "email": "nectaria2016@gmail.com",
+  "resumen": "Técnico en sistemas con experiencia en soporte y mantenimiento de hardware.",
+  "experiencia": [
+    "Técnico informático en XYZ S.L. (2022-2023)",
+    "Prácticas en el departamento IT de Empresa ABC (2021)",
+    "Enderezando platanos, 3000"
+  ],
+  "educacion": [
+    "Grado medio en Sistemas Microinformáticos y Redes (2020-2022)",
+    "Certificado de profesionalidad en Operación de sistemas informáticos (2025)"
+  ]
+}
